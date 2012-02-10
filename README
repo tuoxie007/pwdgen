@@ -1,0 +1,11 @@
+Generator a very strong password, different by everyone and every cli argument.
+Require:
+Python 2.6 or later
+
+Usage:
+1. Change the <Your Custome String> in the code with anything, without changing it after that.
+2. Type
+./pwdgen <one string you can remember from the website name>
+
+Then will generate a list of passwords with different length: 32/16/12/10/8/6, just choose one of them.
+
